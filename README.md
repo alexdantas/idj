@@ -9,6 +9,9 @@ Features:
 * Awesome music - non licensed, so I'll probably get sued.
 * Supports maps created with [Tiled][tiled]! Check out `map/map.tmx`!
 
+![title](http://www.alexdantas.net/projects/idj-part-4/screenshots/title.png)
+![game](http://www.alexdantas.net/projects/idj-part-4/screenshots/game.png)
+
 ## Usage
 
 Everything should come out fine by simply doing:
