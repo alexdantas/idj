@@ -1,0 +1,5 @@
+# No need to store object files
+*.o
+
+# Nor the executable
+idj
